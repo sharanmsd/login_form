@@ -1,0 +1,31 @@
+body
+{
+	background: #33e7e7;
+}
+.login_wrapper
+{
+    margin: 25% auto;
+    padding: 25px;
+    max-width: 250px;
+    max-height: 150px;
+    background: #fdf2f4;
+    box-shadow: 5px 5px 15px #b0cdcf;
+}
+.inputelementwrapper
+{
+	text-align:center;
+}
+.inputelement_loginbutton {
+    background: rgb(218, 251, 249);
+    cursor: pointer;
+    border-radius: 16px;
+    width: 100px;
+    color: black;
+    height: 30px;
+}
+.image
+{
+	padding-left:106px;
+	border-radius:16px;
+	width:50px;
+}
